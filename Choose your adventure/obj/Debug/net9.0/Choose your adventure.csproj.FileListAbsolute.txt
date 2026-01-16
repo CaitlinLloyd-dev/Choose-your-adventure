@@ -1,0 +1,27 @@
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\appsettings.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\Choose your adventure.staticwebassets.endpoints.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\Choose your adventure.exe
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\Choose your adventure.deps.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\Choose your adventure.runtimeconfig.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\Choose your adventure.dll
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\bin\Debug\net9.0\Choose your adventure.pdb
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.AssemblyInfoInputs.cache
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.AssemblyInfo.cs
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\scopedcss\bundle\Choose your adventure.styles.css
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.dll
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\refint\Choose your adventure.dll
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.pdb
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\Choose your adventure.genruntimeconfig.cache
+C:\Users\Caitlin\OneDrive\My Documents\Code project\Choose-your-adventure\Choose your adventure\obj\Debug\net9.0\ref\Choose your adventure.dll
